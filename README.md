@@ -11,7 +11,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammaddfaris&show_icons=true&locale=en&layout=compact" alt="muhammaddfaris" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammaddfaris&show_icons=true&locale=en&layout=compact" alt="muhammaddfaris" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammaddfaris&" alt="muhammaddfaris" /></p>
