@@ -18,8 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=muhammaddfaris&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammaddfaris&theme=radical&hide_border=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=muhammaddfaris&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
